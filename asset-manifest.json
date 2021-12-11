@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/supercool.github.io/static/css/main.64216cd2.chunk.css",
-    "main.js": "/supercool.github.io/static/js/main.ee357932.chunk.js",
-    "main.js.map": "/supercool.github.io/static/js/main.ee357932.chunk.js.map",
+    "main.js": "/supercool.github.io/static/js/main.e6bae368.chunk.js",
+    "main.js.map": "/supercool.github.io/static/js/main.e6bae368.chunk.js.map",
     "runtime-main.js": "/supercool.github.io/static/js/runtime-main.351d9f98.js",
     "runtime-main.js.map": "/supercool.github.io/static/js/runtime-main.351d9f98.js.map",
     "static/js/2.6a0e8a90.chunk.js": "/supercool.github.io/static/js/2.6a0e8a90.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.351d9f98.js",
     "static/js/2.6a0e8a90.chunk.js",
     "static/css/main.64216cd2.chunk.css",
-    "static/js/main.ee357932.chunk.js"
+    "static/js/main.e6bae368.chunk.js"
   ]
 }
