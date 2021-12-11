@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/supercool.github.io/static/css/main.64216cd2.chunk.css",
+    "main.js": "/supercool.github.io/static/js/main.ee357932.chunk.js",
+    "main.js.map": "/supercool.github.io/static/js/main.ee357932.chunk.js.map",
+    "runtime-main.js": "/supercool.github.io/static/js/runtime-main.351d9f98.js",
+    "runtime-main.js.map": "/supercool.github.io/static/js/runtime-main.351d9f98.js.map",
+    "static/js/2.6a0e8a90.chunk.js": "/supercool.github.io/static/js/2.6a0e8a90.chunk.js",
+    "static/js/2.6a0e8a90.chunk.js.map": "/supercool.github.io/static/js/2.6a0e8a90.chunk.js.map",
+    "index.html": "/supercool.github.io/index.html",
+    "static/css/main.64216cd2.chunk.css.map": "/supercool.github.io/static/css/main.64216cd2.chunk.css.map",
+    "static/js/2.6a0e8a90.chunk.js.LICENSE.txt": "/supercool.github.io/static/js/2.6a0e8a90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351d9f98.js",
+    "static/js/2.6a0e8a90.chunk.js",
+    "static/css/main.64216cd2.chunk.css",
+    "static/js/main.ee357932.chunk.js"
+  ]
+}
