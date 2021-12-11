@@ -42,9 +42,9 @@ Upload a text file by pressing the Browse File button on the left. Don't have a 
 - [ ] add transition animation to smooth out abrupt changes
 
 Users can: 
-- [ ] download output file
+- [x] download output file
 - [ ] click on an instruction type to see more info
-- [x] drag and drop a file
+- [ ] drag and drop a file
 - [ ] upload multiple files
 - [ ] users can see multiple outputs
 - [ ] clear output
