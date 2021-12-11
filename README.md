@@ -3,7 +3,10 @@ CS3339 Disassembler
 
 - [Project Requirements](https://git.txstate.edu/sts100/proj3339/blob/master/files/project_description.pdf)
 - [Project Proposal](https://git.txstate.edu/sts100/proj3339/blob/master/files/CS3339-Project-Proposal.pdf)
+
+*Due to unforeseen issues, all code is in this repo, so that the website works*
 - [Project Website](https://jsaide20.github.io/supercool.github.io/)
+- [Project Repo for Website](https://github.com/jsaide20/supercool.github.io)
 
 # super cool disassembler 😎
 
@@ -69,18 +72,8 @@ Users can:
 * Detail view
     * more information on the instruction
 
-### 3. Navigation
-
-**Tab Navigation** (Tab to Screen)
-
-* Profile
-    * has username, photo, and description 
-* search
-    * where user can search for a post
-* home
-    * shows home feed of global posts 
-* saved posts 
-    * has list of all saved/liked posts
+### 3. Known Bug
+* For the last instruction in the input file, it must be end with a new line character. If not, the last instruction will not appear in the result output.
  
 ## Wireframes
 ![Color way](https://github.com/jsaide20/supercool.github.io/blob/main/files/media/color_scheme.PNG)
