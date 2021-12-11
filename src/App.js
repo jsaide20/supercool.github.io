@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {Routes, BrowserRouter, Route} from 'react-router-dom';
+import {Routes, HashRouter, Route} from 'react-router-dom';
 import Disassembler from './components/disassembler';
 import AboutPage from "./pages/About";
 import HelpPage from "./pages/Help";
@@ -22,7 +22,7 @@ function App() {
     }
 
   return (
-      <BrowserRouter>
+      <HashRouter>
           <div>
               <HamburgerMenu isOn={isOn} toggle={toggle}/>
               <Navbar toggle={toggle}/>
@@ -34,7 +34,7 @@ function App() {
                 <Route path="/Report" element={<ReportError/>} />
                 </Routes>
           </div>
-      </BrowserRouter>
+      </HashRouter>
   );
 }
 
