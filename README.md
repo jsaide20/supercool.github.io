@@ -82,8 +82,8 @@ Users can:
     * has list of all saved/liked posts
  
 ## Wireframes
-![Color way](https://git.txstate.edu/sts100/proj3339/blob/master/files/media/color_scheme.PNG)
-![Homepage](https://git.txstate.edu/sts100/proj3339/blob/master/files/media/homepage.png)
+![Color way](https://github.com/jsaide20/supercool.github.io/blob/main/files/media/color_scheme.PNG)
+![Homepage](https://github.com/jsaide20/supercool.github.io/blob/main/files/media/homepage.png)
 https://www.figma.com/file/agDKzd86V69z52OuyuFPDq/Disassembler?node-id=0%3A1
 
 ## Schema
