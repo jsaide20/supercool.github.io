@@ -25,7 +25,7 @@ Use the Super Cool Disassembler That does Cool Things™ to cheat on your assemb
 - **Scope:** centralize one portable tool for translating machine code into human-readable format (MIPS instructions) 
 
 ## Demos
-Drag and drop a txt file into the file field on the left. Don't have a txt file? Convert your object file to txt file using this C++ program. View MIPS instructions on the right. *Note that there currently is no implementation of pseudoinstructions.*
+Upload a text file by pressing the Browse File button on the left. Don't have a txt file? Convert your object file to txt file using this C++ program. View MIPS instructions on the right. *Note that there currently is no implementation of pseudoinstructions and FR/FI instructions*
 
 ## Product Spec
 
